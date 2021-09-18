@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on PagSeguro
 
-- 🌱 I’m currently learning Software Engineering, Data Science 
+- 🌱 I’m currently learning Software Development 
 
-- 👯 I’m looking to collaborate on Projects, Tech Articles 
-
-- 💬 Talk to me about Freelancing Opportunites, Open Source
+- 👯 I’m looking to collaborate on Open Source Projects
+    
+- 💬 Talk to me about Freelancing Opportunites
 
 <div>
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=thuan&count_private=true&show_icons=true&theme=tokyonight" />
@@ -45,7 +45,6 @@
 <h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=onedark)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=thuan.thuan)
 
-  <img src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg"/>
+![visitors](https://visitor-badge.glitch.me/badge?page_id=thuan.thuan) <img src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg"/>
 
