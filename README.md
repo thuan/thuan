@@ -11,6 +11,8 @@
     
 - 💬 Talk to me about Freelancing Opportunites
 
+ ##
+    
 <div>
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=thuan&count_private=true&show_icons=true&theme=tokyonight" />
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thuan&theme=tokyonight" />
