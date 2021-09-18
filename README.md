@@ -12,8 +12,8 @@
 - 💬 Talk to me about Freelancing Opportunites, Open Source
 
 <div>
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=thuan&count_private=true&show_icons=true&theme=onedark" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thuan&theme=onedark" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=thuan&count_private=true&show_icons=true&theme=tokyonight" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thuan&theme=tokyonight" />
 </div>
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
