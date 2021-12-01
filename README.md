@@ -9,8 +9,6 @@
     
 - 💬 Talk to me about Freelancing Opportunites
 
- ##
-
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <div>
 </div>
@@ -36,16 +34,14 @@
   <a href = 'https://steamcommunity.com/id/thuansaraiva' target="_blank"> <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"/></a>     
   <img src="http://ForTheBadge.com/images/badges/built-with-love.svg"/>
 </div>
-    
-##
-    
-<div>
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=thuan&count_private=true&show_icons=true&theme=tokyonight" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thuan&theme=tokyonight" />
-</div>
 
 <h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
 
+ <div>
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=thuan&count_private=true&show_icons=true&theme=tokyonight" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thuan&theme=tokyonight" />
+</div>
+    
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=onedark)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=thuan.thuan) <img src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg"/>
