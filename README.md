@@ -3,7 +3,7 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 I’m currently working on PagSeguro
+- 🔭 I’m currently working on Castgroup - Bacen
     
 - 🌱 I’m currently learning Python and Svelte
 
