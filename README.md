@@ -40,11 +40,11 @@
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=onedark)
     
 <div>
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=thuan&count_private=true&show_icons=true&theme=onedark" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=thuan&count_private=true&show_icons=true&theme=onedark" />
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thuan&layout=compact&theme=onedark" />
 </div>
     
 <img src="http://ForTheBadge.com/images/badges/built-with-love.svg"/>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=thuan) <img src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg"/>
+<img src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg"/>
 
