@@ -35,6 +35,5 @@
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=onedark)
     
-<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" align="right" />
 <img src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg" align="right"/>
-
+<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" align="right" />
