@@ -1,11 +1,11 @@
 
-<h1> Hello, world ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40" height="40"></h1>
+<h1> You're welcome!</h1>
 
 <img width="45%" align="right" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 🔭 I’m currently working on Java projects
     
-- 🌱 I’m currently learning Python and Svelte
+- 🌱 I’m currently learning Python and Data Science.
 
 - 👯 I’m looking to collaborate on Open Source Projects
     
@@ -34,6 +34,6 @@
 <h2>Some Programming Humor for you:</h2>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=onedark)
-    
+
+<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" />    
 <img src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg" align="right"/>
-<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" align="right" />
