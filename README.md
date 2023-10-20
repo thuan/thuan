@@ -1,7 +1,7 @@
 
-<h1> Hello, world ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40" height="40"> </h1>
+<h1> Hello, world ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40" height="40"></h1>
 
-<img width="45%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="45%" align="right" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 🔭 I’m currently working on Java projects
     
@@ -32,10 +32,9 @@
 </div>
 
 <h2>Some Programming Humor for you:</h2>
-<img src="https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif" width="40" height="40">
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=onedark)
     
-<img src="http://ForTheBadge.com/images/badges/built-with-love.svg"/>
-<img src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg"/>
+<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" align="right" />
+<img src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg" align="right"/>
 
