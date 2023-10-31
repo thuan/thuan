@@ -3,13 +3,13 @@
 
 <img width="45%" align="right" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 I’m currently working on Java projects
+- 🔭 I’m currently working on Personal projects
     
-- 🌱 I’m currently learning Python and Data Science.
+- 🌱 I’m currently learning Kotlin and Mobile Development.
 
 - 👯 I’m looking to collaborate on Open Source Projects
     
-- 💬 Talk to me about career opportunities
+- 💬 Talk to me about job opportunities
  
 
 <h2> Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40" height="40"> </h2>
