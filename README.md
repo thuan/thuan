@@ -33,7 +33,7 @@
 
 <h2>Some Programming Humor for you:</h2>
 
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=onedark)
+![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=vue)
 
 <img src="http://ForTheBadge.com/images/badges/built-with-love.svg" />    
 <img src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg" align="right"/>
