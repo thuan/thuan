@@ -1,11 +1,11 @@
 
-<h1> You're welcome!</h1>
+<h1> Hello World!</h1>
 
 <img width="45%" align="right" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 I’m currently working on Personal projects
+- 🔭 I’m currently working on Professional projects
     
-- 🌱 I’m currently learning Kotlin and Mobile Development.
+- 🌱 I’m currently learning Java and Spring Framework.
 
 - 👯 I’m looking to collaborate on Open Source Projects
     
