@@ -10,39 +10,38 @@
     
 - 💬 Talk to me about new projects.
 
-<h2 align="center"> Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40" height="40"> </h2>
+<h2 align="center"> <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40" height="40" /> Skills </h2>
     <div align="center">
-     <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+ <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo"  />
+  <img width="12" />
+ <img src="https://skillicons.dev/icons?i=spring" height="60" alt="spring boot logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=jenkins" height="60" alt="jenkins logo"  />
+ <img width="12" />
+ <img src="https://skillicons.dev/icons?i=idea" height="60" alt="intellij logo"  />
+  <img width="12" />
+ <img src="https://skillicons.dev/icons?i=angular" height="60" alt="angular logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+    <img width="12" />
+ <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
+ <img src="https://skillicons.dev/icons?i=bootstrap" height="60" alt="bootstrap logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
+ <img src="https://skillicons.dev/icons?i=css" height="60" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
+ <img src="https://skillicons.dev/icons?i=html" height="60" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
+ <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="postgres logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
+ <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo"  />
+ <img width="12" />
+ <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo"  />
+ <img width="12" />
+ <img src="https://skillicons.dev/icons?i=gitlab" height="60" alt="gitlab logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
+ <img src="https://skillicons.dev/icons?i=aws" height="60" alt="aws logo"  />
 </div>
-
-  <div>
-    <img src='https://img.shields.io/badge/Spring-grey?style=for-the-badge&logo=spring'>
-    <img src='https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black'>
-    <img src='https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white'>
-    <img src='https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white'>
-    <img src='https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white'>
-    <img src='https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white'>
-  </div>
 
 
 <h2> Connect with me <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="80" height="40"> </h2>
